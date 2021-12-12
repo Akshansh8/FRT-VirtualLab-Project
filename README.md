@@ -1,5 +1,5 @@
 # FRT-VirtualLab-Project
-In this project i have created a lab using azure lab service
+In this project i have created a lab using azure lab service<br>
 students can practice sql using the lab
 username: student
 password: Class@frt123
