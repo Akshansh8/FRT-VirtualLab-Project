@@ -4,7 +4,7 @@ students can practice sql using the lab
 username: student
 password: Class@frt123
 registration link is provided in about section of repositry
-each user has quota hours which is set for 1 hour within which they can use the lab
+**each user has quota hours which is set for 1 hour within which they can use the lab**
 
 ![image](https://user-images.githubusercontent.com/91936333/145703850-b7de4dc4-1dab-4524-bfe1-85a8211f18df.png)
 see the ppt for reference
